@@ -1,7 +1,7 @@
 {
-  "name": "my-first-nuxt-app",
+  "name": "nuxt-course",
   "version": "1.0.0",
-  "description": "My stunning Nuxt.js project",
+  "description": "Nuxt.js course for Udemy",
   "author": "purvizinjuvadia",
   "private": true,
   "scripts": {
