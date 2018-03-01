@@ -1,6 +1,9 @@
 <template>
   <div>
     <Header />
+    <header>
+      USERS LAYOUT
+    </header>
     <nuxt/>
   </div>
 </template>

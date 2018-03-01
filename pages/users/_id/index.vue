@@ -3,7 +3,16 @@
 </template>
 
 <script>
-
+export default {
+  validate(data) {
+    // console.log(data)
+    // return true
+    // return data.params.id === 1
+    // return data.params.id == 1
+    return /^\d+$/.test(data.params.id)
+  },
+  layout: 'users'
+}
 </script>
 
 <scope>
